@@ -5,6 +5,6 @@ Maven Sample WebApp
 </title>
 </head>
 <body>
-<h2>Hello Welcome to our First MavenWebAppOne Page</h2>
+<h2>Hello Welcome to our First Case Study on MavenWebAppOne Page</h2>
 </body>
 </html>
